@@ -13,9 +13,10 @@ This repository is a living archive of my ongoing learning journey!! 😊
 >✍️ I’m organizing the lectures I’ve studied here.\
 For each topic, I’ve shared insights on my tech blog.
 
-| Title | Organizer | Topic | Tech Blog | 
-|---|---|---|---|
+| Title | Organizer | Topic |
+|---|---|---|
 |[AI Agent for GraphRAG](https://fastcampus.co.kr/sem_mat_05)|fastcampus|GraphRAG, Agent, MCP|
+
 
 <br>
 

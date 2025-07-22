@@ -1,0 +1,17 @@
+// RAG Workflow
+digraph {
+	rankdir=LR
+	node [fillcolor=lightblue shape=box style="rounded,filled"]
+	START [label=START shape=oval]
+	classify [label="Classify(질문 분류)"]
+	retrieve [label="Retrieve(문서 검색)"]
+	think [label="Think(추론)"]
+	answer [label="Answer(답변 생성)"]
+	END [label=END shape=oval]
+	START -> classify
+	classify -> retrieve [label=retrieve]
+	classify -> answer [label=generate]
+	retrieve -> think
+	think -> answer
+	answer -> END
+}

@@ -25,7 +25,7 @@ For each topic, I’ve shared insights on my tech blog.
 
 <br>
 
-| Title | Topic |
+| Title | Topic | 
 |-----------|-----------|
 |[1. RAG와 LangGraph의 등장과 동작과정](https://ai-rain.tistory.com/57) | RAG |
 | [2. Query 추론 및 재생성](https://ai-rain.tistory.com/58) | RAG |
@@ -38,9 +38,11 @@ LangGraph
 |[3. Langchain Agent](https://ai-rain.tistory.com/104)|LangChain, AI Agent
 |-|
 |[AI Agent의 모든 것](https://ai-rain.tistory.com/65)|AI Agent|
+|-|-|
+|[Opensource로 Reasoning RAG 구축하기](https://ai-rain.tistory.com/110) | Reasoning RAG |
 
 ### Paper
 
 | Title | Topic | Github | MY Tech Blog | 
 |-----------|-----------|-----------|-----------|
-[Evaluation of Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2405.07437)| Evaluation | [LINK](https://github.com/YHPeter/Awesome-RAG-Evaluation) | https://ai-rain.tistory.com/108 |
+[Evaluation of Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2405.07437)| Evaluation | [LINK](https://github.com/YHPeter/Awesome-RAG-Evaluation) | [LINK](https://ai-rain.tistory.com/108) |
